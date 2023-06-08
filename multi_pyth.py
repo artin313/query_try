@@ -1,3 +1,2 @@
 print(5*3)
-print(10+5)
-print(20/2)
+print(159/3)
